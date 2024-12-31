@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdint.h>
+#include <string.h>
+#include "pico/stdlib.h"
+#include "hardware/spi.h"
+#include "hardware/i2c.h"
+#include "sx126x/lora.h"
+#include "sx126x/sx126x_hal.h"
+#include "bme68x/bme68x.h"
+#include "bme68x/bme68x_defs.h"
+#include "bme68x/bme68x_hal.h"
+#include "acc/acc.h"
+#include "pico-ssd1306/SSD1306_OLED.hpp"
