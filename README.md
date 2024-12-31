@@ -1,4 +1,4 @@
-# Env-Sense
+# A Device for Safer Exploration: Env-Sense
 
 ![Env-Sense](https://github.com/user-attachments/assets/cfc47ab9-cc40-491c-8ea5-93ec7c308e23)
 
